@@ -5,21 +5,30 @@ Bem-vindo(a) ao repositório das disciplinas **Cálculo 3** e **Cálculo Numéri
 ## 🧮 Disciplinas
 
 ### 📐 Cálculo 3
-> Envolve o estudo de funções de várias variáveis reais, incluindo:
-- Limites e continuidade em ℝ² e ℝ³  
-- Derivadas parciais  
-- Gradiente e diferenciais  
-- Máximos e mínimos locais  
-- Integrais duplas e triplas  
-- Mudança de variáveis (coordenadas polares, cilíndricas e esféricas)  
-- Teoremas de Green, Stokes e da divergência  
+> Envolve o estudo de funções de várias variáveis reais, com foco nos seguintes tópicos:
+- Cálculo Vetorial  
+- Parametrização de Curvas  
+- Integrais de Linha  
+- Teoremas de Green, Stokes e da Divergência  
+- Campos Vetoriais  
+- Sequências e Séries  
+- Séries de Potência, Taylor e Maclaurin  
+
+📚 **Livro base utilizado:**  
+*James Stewart – Cálculo, Volume 2*
+
+---
 
 ### 💻 Cálculo Numérico
-> Foca em métodos computacionais para resolver problemas matemáticos, tais como:
-- Aritmética de ponto flutuante  
-- Zeros de funções (Método da Bisseção, Newton-Raphson, etc.)  
-- Interpolação e ajuste de curvas  
-- Derivação e integração numérica  
-- Resolução numérica de sistemas lineares  
-- Métodos iterativos e fatoração LU  
-- Solução numérica de equações diferenciais  
+> Foca em métodos computacionais e numéricos para resolver problemas matemáticos, com os seguintes conteúdos principais:
+- Análise de Erros e Aritmética de Ponto Flutuante  
+- Zeros de Funções Reais (Método da Bisseção, Newton-Raphson, entre outros)  
+- Interpolação Polinomial  
+- Método dos Mínimos Quadrados  
+- Integração Numérica (Regra dos Trapézios, Simpson, etc.)  
+- Resolução Numérica de Equações Diferenciais Ordinárias (EDO) e Problemas de Valor de Contorno (PVC)  
+
+📚 **Livro base utilizado:**  
+*Márcia Ruggiero – Cálculo Numérico: Aspectos Teóricos e Computacionais*
+
+---
